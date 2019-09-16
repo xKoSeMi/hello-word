@@ -2,7 +2,7 @@
 
 
 My name is KoSeMi
-my decription
+my description
 
 and this is new text
 
